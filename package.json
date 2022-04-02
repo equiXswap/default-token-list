@@ -1,0 +1,38 @@
+{
+  "name": "@equixswap/default-token-list",
+  "version": "1.0.0",
+  "description": "◦ The equiXswap default token list",
+  "main": "build/equixswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/equixswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/equixswap-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equiXswap/default-token-list.git"
+  },
+  "keywords": [
+    "equixswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Moody Salem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/equiXswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/equiXswap/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.6.0",
+    "@equixswap/token-lists": "^1.0.0-beta.28",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

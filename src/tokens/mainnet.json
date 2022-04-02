@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Wrapped ND2",
+    "address": "0x1b49F02De690dcBeCFf1fE72A873B10b3bdBe57D",
+    "symbol": "WND2",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/ND2.png"
+  },
+  {
+    "name": "Luka Token",
+    "address": "0xe476D9CAAFd210aaC49dCa4ef776faD452875800",
+    "symbol": "LUKA",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/0-native.png"
+  },
+  {
+    "name": "USD EquiX Token",
+    "address": "0x872Bb3dc3F9B7e3FA175463d3ceDf5c77ef35110",
+    "symbol": "USDx",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/USDx.png"
+  },
+  {
+    "name": "CAD EquiX Token",
+    "address": "0x44196b7055763A4e5e2b35F3B347F3E366286863",
+    "symbol": "CADx",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/CADx.png"
+  },
+  {
+    "name": "COP EquiX Token",
+    "address": "0x180d1A3E6CcF636fb52e9ad9161fb75b9E77F5Cd",
+    "symbol": "COPx",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/COPx.png"
+  },
+  {
+    "name": "ARS EquiX Token",
+    "address": "0xA8861db31C3Eb64Ff38ad9982F2d7cc40b349133",
+    "symbol": "ARSx",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/ARSx.png"
+  },
+  {
+    "name": "BRL EquiX Token",
+    "address": "0xa9de20F22d7F83d6947264823401E25A2295F93E",
+    "symbol": "BRLx",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/BRLx.png"
+  },
+  {
+    "name": "MXN EquiX Token",
+    "address": "0x10f121da4E3Cd50Bf37c04ea5a48714eb0bDFdb4",
+    "symbol": "MXNx",
+    "decimals": 18,
+    "chainId": 27435,
+    "logoURI": "https://lukaswap.org/tokens/logos/MXNx.png"
+  }
+]
