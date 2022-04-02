@@ -1,6 +1,6 @@
 {
   "name": "@equixswap/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "◦ The equiXswap default token list",
   "main": "build/equixswap-default.tokenlist.json",
   "scripts": {
